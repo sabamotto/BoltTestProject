@@ -1,0 +1,16 @@
+{
+    "name": "EditorTypogenic",
+    "references": [
+        "GUID:21c37ab1748704455afe6051c2e16394"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
